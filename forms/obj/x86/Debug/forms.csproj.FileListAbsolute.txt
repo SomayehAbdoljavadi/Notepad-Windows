@@ -1,0 +1,27 @@
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\bin\Debug\forms.exe
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\bin\Debug\forms.pdb
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.Form2.resources
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.Properties.Resources.resources
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.csproj.GenerateResource.Cache
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.exe
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.pdb
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.About_Notpad.resources
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.find.resources
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.replace.resources
+C:\Users\SOMIII\Documents\Visual Studio 10\Projects\forms\forms\obj\x86\Debug\forms.goto.resources
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.exe
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.pdb
+E:\SOMIII\C#\notepad\forms\bin\Debug\forms.exe
+E:\SOMIII\C#\notepad\forms\bin\Debug\forms.pdb
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.About_Notpad.resources
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.find.resources
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.Form2.resources
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.goto.resources
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.Properties.Resources.resources
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\forms.replace.resources
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SOMIII\C#\notepad\forms\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SOMIII\karshenasi\C#\notepad\forms\obj\x86\Debug\forms.exe
+E:\SOMIII\karshenasi\C#\notepad\forms\obj\x86\Debug\forms.pdb
